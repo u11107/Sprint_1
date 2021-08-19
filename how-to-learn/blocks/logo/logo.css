@@ -1,0 +1,7 @@
+@import url('../../blocks/logo/_place/logo_place_header.css');
+
+.logo {
+  left: 64px;
+  width: 183px;
+  height: 32px;
+}

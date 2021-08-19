@@ -1,0 +1,10 @@
+.footer__column-links {
+  display: flex;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  flex-direction: column;
+  text-decoration: none;
+  color: white;
+  margin-bottom: 16px;
+}
